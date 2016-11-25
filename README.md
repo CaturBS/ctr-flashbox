@@ -5,7 +5,7 @@ To use just add this line in head of html document:
 		<script type="text/javascript" src="js/bootstrapmodal.js"></script>
 
 To use just look in sample below.
-<h4>Samples</h4>
+<h3>Samples</h3>
 sample 1:<br/>
 var s = new CtrFlashBox('Wow flashed!!!');
 
@@ -17,7 +17,7 @@ new CtrFlashBox('Wow flashed!!!&lt;br/&gt;really??', {<br/>
 Constructor:
 function(html,options)
 
-The list of options:
+<h3>The list of options:</h3>
 <ul>
 <li>fadeIn: integer value in ms.</li>
 <li>fadeOut: integer value in ms.</li>
