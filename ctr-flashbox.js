@@ -30,6 +30,9 @@ function CtrFlashBox(html,options) {
 				fadeInVal = options['fadeIn'];
 			} else if (key == 'fadeOut'){
 				fadeOutVal = options['fadeOut'];
+			} else if (key == 'height'){
+				cssOptions['height'] = options['height'],
+				cssOptions['bottom'] = '-'+options['height']
 			} else {
 				cssOptions[key] = options[key]
 			}
@@ -43,7 +46,7 @@ function CtrFlashBox(html,options) {
 	this.content.html(html);
 	container.append(this.content);
 	$('body').append(container);
-	wrapper.fadeIn(fadeInVal).animate({
+	container.fadeIn(fadeInVal).animate({
 		bottom:"4em"
 	},1000).fadeOut(fadeOutVal, function(){
 		$('#cfb_'+ctrFlashId).remove();
