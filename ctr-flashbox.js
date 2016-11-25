@@ -1,3 +1,7 @@
+/*
+ * ctrbudisantoso@gmail.com
+ * flash box in bottom right windows
+ */
 var ctrFlashId = 0;
 function CtrFlashBox(html,options) {	
 	var container = $('<div id="cfb_'+ctrFlashId+'" hidden></div>');
