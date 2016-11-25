@@ -11,7 +11,7 @@ var s = new CtrFlashBox('Wow flashed!!!');
 
 sample 2:<br/>
 new CtrFlashBox('Wow flashed!!!&lt;br/&gt;really??', {<br/>
-&nbsp;&nbsp;width:'100px', height:'50px', backgroundColor:'black':,color:'white',fadeIn:2000, fadeOut:500<br/>
+&nbsp;&nbsp;width:'120px', height:'60px', backgroundColor:'black',color:'white',fadeIn:2000, fadeOut:500<br/>
 });
 
 Constructor:
