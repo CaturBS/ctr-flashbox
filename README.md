@@ -4,11 +4,12 @@ jquery flash box to show flash box with close button in the bottom right of brow
 To use just add this line in head of html document:
 		<script type="text/javascript" src="js/bootstrapmodal.js"></script>
 
-To use just look in sample below:
-sample 1:
+To use just look in sample below.
+<h4>Samples</h4>
+sample 1:<br/>
 var s = new CtrFlashBox('Wow flashed!!!');
 
-sample 2:
+sample 2:<br/>
 new CtrFlashBox('Wow flashed!!!<br/>really??', {width:'100px', height:'50px', backgroundColor:'black':,color:'white',fadeIn:2000, fadeOut:500);
 
 Constructor:
