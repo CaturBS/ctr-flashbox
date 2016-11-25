@@ -15,7 +15,9 @@ Constructor:
 function(html,options)
 
 The list of options:
-1. fadeIn: integer value in ms.
-2. fadeOut: integer value in ms.
-3. some css tags to change the wrapper of box i.e. box-shadow, width, height, color etc.
+<ul>
+<li>fadeIn: integer value in ms.</li>
+<li>fadeOut: integer value in ms.</li>
+<li>Some css tags to change the wrapper of box i.e. box-shadow, width, height, color etc.</li>
+</ul>
 ctrbudisantoso@gmail.com
