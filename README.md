@@ -21,8 +21,19 @@ function(html,options)
 <ul>
 <li>fadeIn: integer value in ms.</li>
 <li>fadeOut: integer value in ms.</li>
-<li>Some css tags to change the wrapper of box i.e. box-shadow, width, height, color etc.</li>
+<li>Some css tags to change the wrapper of box style:
+  <ul>
+    <li>width</li>
+    <li>height</li>
+    <li>padding</li>
+    <li>border</li>
+    <li>color</li>
+    <li>backgroundColor</li>
+    <li>boxShadow</li>
+    <li>etc...</li>
+  </ul>
+</li>
 </ul>
 
 @copyright: ctrbudisantoso@gmail.com
-You can use, modified and distribute this code free. If you  modified it just give recognition that you modified it from my code. If you sell the modified code email me first.
+You can use, modified and distribute this code free. If you  modified it just give recognition in your code that you modified it from my code.
