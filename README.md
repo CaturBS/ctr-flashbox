@@ -2,7 +2,7 @@
 Jquery flash box to show flash box with close button in the bottom right of browser.
 
 Add this line in head of html document before use this library:<br/>
-<b>&lt;script type="text/javascript" src="js/bootstrapmodal.js"&gt;&lt;/script&gt;</b>
+<b>&lt;script type="text/javascript" src="<span style="color:#339833;">path-to-file</span>/ctr-flashbox.js"&gt;&lt;/script&gt;</b>
 
 To use just look in sample below.
 <h3>Samples</h3>
