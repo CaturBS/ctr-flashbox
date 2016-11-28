@@ -1,8 +1,8 @@
 # ctr-flashbox
-jquery flash box to show flash box with close button in the bottom right of browser.
+Jquery flash box to show flash box with close button in the bottom right of browser.
 
-To use just add this line in head of html document:
-		<script type="text/javascript" src="js/bootstrapmodal.js"></script>
+Add this line in head of html document before use this library:
+		&lt;script type="text/javascript" src="js/bootstrapmodal.js"&gt;&lt;/script&gt;
 
 To use just look in sample below.
 <h3>Samples</h3>
@@ -23,4 +23,6 @@ function(html,options)
 <li>fadeOut: integer value in ms.</li>
 <li>Some css tags to change the wrapper of box i.e. box-shadow, width, height, color etc.</li>
 </ul>
-ctrbudisantoso@gmail.com
+
+@copyright: ctrbudisantoso@gmail.com
+You can use, modified and distribute this code free. If you  modified it just give recognition that you modified it from my code. If you sell the modified code email me first.
