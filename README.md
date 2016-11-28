@@ -14,7 +14,7 @@ new CtrFlashBox('Wow flashed!!!&lt;br/&gt;really??', {<br/>
 &nbsp;&nbsp;width:'120px', height:'60px', backgroundColor:'black',color:'white',fadeIn:2000, fadeOut:500<br/>
 });
 
-Constructor:
+<h3>Constructor:</h3>
 function(html,options)
 
 <h3>The list of options:</h3>
