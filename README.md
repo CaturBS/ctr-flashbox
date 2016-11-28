@@ -21,7 +21,7 @@ function(html,options)
 <ul>
 <li>fadeIn: integer value in ms.</li>
 <li>fadeOut: integer value in ms.</li>
-<li>Some css tags to change the wrapper of box style:
+<li>Some css tags to change the style of flash box:
   <ul>
     <li>width</li>
     <li>height</li>
@@ -30,7 +30,7 @@ function(html,options)
     <li>color</li>
     <li>backgroundColor</li>
     <li>boxShadow</li>
-    <li>etc...</li>
+    <li>etc. (Its up to you to use the css styling with your own risk...)</li>
   </ul>
 </li>
 </ul>
