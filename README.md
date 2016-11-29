@@ -1,5 +1,5 @@
 # ctr-flashbox
-Simple jquery flash box to show flash box with close button in the bottom right of browser.
+Simple jquery flash box to show message flashed with close button in the bottom right of browser.
 
 Add this line in head of html document before use this library:<br/>
 <b>&lt;script type="text/javascript" src="<span style="color:#339833;">path-to-file</span>/ctr-flashbox.min.js"&gt;&lt;/script&gt;</b>
